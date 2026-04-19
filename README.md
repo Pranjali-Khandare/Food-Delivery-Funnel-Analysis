@@ -78,9 +78,9 @@ A/B Test:
 
 ---
 
-## 📁 Files
+- ## 📄 Full Analysis
 
-- `queries.sql` (optional – if you have it)
+[View Full Presentation](./Food_Delivery_Funnel_Optimization.pdf)
 
 ---
 
